@@ -25,3 +25,11 @@ Funcionalidades futuras:
 -Inicio de sesión
 
 -Administración de usuarios
+
+-Ideas futuras:
+
+-Aplicacion movil
+
+-Notificaciones por correo
+
+-Plataforma para apoderados
