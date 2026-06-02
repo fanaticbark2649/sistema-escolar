@@ -6,7 +6,7 @@ Integrantes:
 
 Descripción:
 
-Repositorio inicial del proeycto escolar.
+Repositorio inicial del proyecto escolar.
 
 Funcionalidades futuras:
 
